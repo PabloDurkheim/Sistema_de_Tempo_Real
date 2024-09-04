@@ -12,7 +12,7 @@ subvetores já ordenados.
 sequência e em paralelo.
 * Apresente o gráfico de desempenho da duas abordagens (em sequência e em paralelo).
 
-Resolução: 
+**Resolução**: 
 - Sequencial: arquivo sequencial.cpp
 - Paralelo: arquivo paralelo.cpp
 - Gráfico: notebook Tarefa_Un2_STR
