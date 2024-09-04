@@ -11,3 +11,8 @@ subvetores já ordenados.
 * Meça o tempo de execução para cada um dos valores de N excutando as threads em 
 sequência e em paralelo.
 * Apresente o gráfico de desempenho da duas abordagens (em sequência e em paralelo).
+
+Resolução: 
+- Sequencial: arquivo sequencial.cpp
+- Paralelo: arquivo paralelo.cpp
+- Gráfico: notebook Tarefa_Un2_STR
